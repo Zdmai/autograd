@@ -1,3 +1,3 @@
-# Meatagrad
+# Autograd
 
-test for autograd system, learned by the video of `Andrej Karpathy`
+A autograd engine for autograd
